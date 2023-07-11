@@ -1,4 +1,4 @@
-part of innerglow;
+part of inner_glow;
 
 class CustomPainterInnerGlow extends CustomPainter {
 

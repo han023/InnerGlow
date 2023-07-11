@@ -1,6 +1,6 @@
 // ignore_for_file: file_names
 import 'package:flutter/material.dart';
-import 'package:innerglow/innerglow.dart';
+import 'package:innerglow/inner_glow.dart';
 import 'package:innerglowexpamle/screens/helper/helperUi.dart';
 import 'package:innerglowexpamle/screens/helper/texthelper.dart';
 import 'package:innerglowexpamle/tools/layoutSize.dart';

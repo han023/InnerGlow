@@ -1,4 +1,4 @@
-part of innerglow;
+part of inner_glow;
 
 // ignore: must_be_immutable
 class InnerGlow extends StatelessWidget {
