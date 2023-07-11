@@ -3,6 +3,31 @@
 
 ##### This package allows you to easily create inner glow effects for your containers, elevating the visual appeal of your Flutter applications. With InnerGlowContainers, you can add stunning and eye-catching inner glow effects to your UI elements, unlocking new possibilities for design and aesthetics. Elevate your Flutter projects with the InnerGlowContainers package and unleash your creativity like never before.
 
+## Download
+
+[![pub.dev](https://img.shields.io/badge/download-pub.dev-blue)](https://pub.dev/packages/inner_glow)
+
+#### With Flutter:
+
+ ```
+$ flutter pub add inner_glow
+ ```
+This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+
+```
+dependencies:
+  inner_glow: ^1.0.0
+```
+Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
+
+Import it
+Now in your Dart code, you can use:
+
+```
+import 'package:inner_glow/inner_glow.dart';
+```
+
+
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
