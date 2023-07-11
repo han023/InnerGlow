@@ -1,7 +1,7 @@
 name: innerglow
 description: Flutter package to add inner glow to the container or get a container with the inner glow
 version: 1.0.0
-homepage:
+homepage: https://github.com/han023/InnerGlow
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
